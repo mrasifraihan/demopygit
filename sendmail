@@ -1,2 +1,7 @@
 print("HELLO")
 print("New Line Added")
+
+
+
+for i in range(5):
+    print(i)
